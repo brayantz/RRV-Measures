@@ -10,7 +10,7 @@ Just add the entire folder to the MATLAB search path
 ## References
 There are multiple estimators of RRV implemented in the functions provided. References for most of them:
 
-Hashimoto, T., Stedinger, J. R., & Loucks, D. P. (1982a). Reliability, resiliency, and vulnerability criteria for water resource system performance evaluation. Water resources research, 18(1), 14-20. https://doi.org/10.1029/WR018i001p00014
+Hashimoto, T., Stedinger, J. R., & Loucks, D. P. (1982). Reliability, resiliency, and vulnerability criteria for water resource system performance evaluation. Water resources research, 18(1), 14-20. https://doi.org/10.1029/WR018i001p00014
 
 Kjeldsen, T. R., & Rosbjerg, D. (2004). Choice of reliability, resilience and vulnerability estimators for risk assessments of water resources systems. Hydrological sciences journal, 49(5). https://doi.org/10.1623/hysj.49.5.755.55136
 
