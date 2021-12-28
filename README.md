@@ -8,7 +8,7 @@ Reliability, resilience and vulnerabilty measures for water resources system ana
 Just add the entire folder to the MATLAB search path
     
 ## References
-There are multiple estimators of RRV implemented in the functions provided. References for most of them:
+There are multiple estimators of RRV implemented in the functions provided, the definitions can be found in:
 
 Hashimoto, T., Stedinger, J. R., & Loucks, D. P. (1982). Reliability, resiliency, and vulnerability criteria for water resource system performance evaluation. Water resources research, 18(1), 14-20. https://doi.org/10.1029/WR018i001p00014
 
