@@ -1,6 +1,6 @@
 # RRV-Measures
 
-Reliability, resilience and vulnerabilty measures for water resources system analisis (demand-supply).
+Reliability, resilience and vulnerabilty measures for water resources system analysis (demand-supply).
 
 
 ## Installation
